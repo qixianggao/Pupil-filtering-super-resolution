@@ -8,7 +8,7 @@ Design and optimize a super-resolution pupil filter and verify it in optical sys
 <center><img height="300" src="information/2.png" width="600"/></center>
 <center> fig.2 super-resolution optical system </center>
 
-<center><img height="50" src="information/3.png" width="200"/></center>
+<center><img height="50" src="information/3.PNG" width="200"/></center>
 <center> fig.3 Strehl ratio </center>
 
 <center><img height="100" src="information/4.PNG" width="200"/></center>
