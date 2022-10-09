@@ -51,10 +51,7 @@ Get PSF from optical system to complete image simulation.
 
 
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 0bc153e29e251b05691416ba63f6c0f37e24fcb9
 
 
 
