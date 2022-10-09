@@ -2,7 +2,7 @@
 Design and optimize a super-resolution pupil filter and verify it in optical system, image restoration by improved Deblurganv2
 ## 1. Design and optimize a super-resolution pupil filter
 
-<center> <img height="300" src="information/1.gif" width="600"/> </center>
+<center> <img height="300" src="https://github.com/qixianggao/Pupil-filtering-super-resolution/blob/master/information/1.gif" width="600"/> </center>
 <center> fig.1 airy disk definition </center>
 
 <center><img height="300" src="information/2.png" width="600"/></center>
