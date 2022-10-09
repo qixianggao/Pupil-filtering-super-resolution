@@ -5,11 +5,19 @@ Design and optimize a super-resolution pupil filter and verify it in optical sys
 <p align="center"><img height="300" src="information/1.gif" width="600"/><br /></p>
  <p align="center">fig.1 airy disk definition <br /></p>
 
+<<<<<<< HEAD
 <p align="center"><img height="300" src="information/2.png" width="600"/><br /></p>
  <p align="center">fig.2 super-resolution optical system <br /></p>
 
 <p align="center"><img height="50" src="information/3.PNG" width="200"/><br /></p>
 <p align="center"> fig.3 Strehl ratio <br /></p>
+=======
+<p align="center"><img height="300" src="information/2.png" width="600"/></br></p>
+ <p align="center">fig.2 super-resolution optical system <br /></p>
+
+<p align="center"><img height="50" src="information/3.PNG" width="200"/></br></p>
+<p align="center"> fig.3 Strehl ratio </br></p>
+>>>>>>> 0bc153e29e251b05691416ba63f6c0f37e24fcb9
 
 <p align="center"><img height="100" src="information/4.PNG" width="200"/><br /></p>
 <p align="center"> fig.4 super-resolution index <br /></p>
@@ -50,6 +58,10 @@ Get PSF from optical system to complete image simulation.
 
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0bc153e29e251b05691416ba63f6c0f37e24fcb9
 
 
 
